@@ -7,7 +7,7 @@ Analytics Portfolio
 
 ![](https://github.com/karquiambao/Kar_Portfolio/blob/main/project1-restaurant-challenge.png?raw=true)
 ![](https://github.com/karquiambao/Kar_Portfolio/blob/main/images/Portfolio%20-%20Project%201%20-%20Restaurant%20Investment%20-%20EDA.png)
-
+![](https://github.com/karquiambao/Kar_Portfolio/blob/main/images/portfolio-project1.png?raw=true)
 ![](https://github.com/karquiambao/Kar_Portfolio/blob/main/images/portfolio-project1.png)
 
 ## [Project 2: Playing with Python](https://github.com/karquiambao/Playing-With-Python)
