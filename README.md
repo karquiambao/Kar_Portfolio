@@ -5,6 +5,8 @@ Analytics Portfolio
 
 **Tools & Technology Used:** Google Data Studio, BigQuery SQL
 
+![](images/Portfolio - Project 1 - Restaurant Investment - EDA.png)
+
 ##[Project 2: Playing with Python](https://github.com/karquiambao/Playing-With-Python)
 
 **Tools & Technology Used:** Python, Numpy, Pandas, MatPlotlib, Seaborn
