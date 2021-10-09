@@ -1,4 +1,4 @@
-# 
+
 ## <span style="font-family:Papyrus; font-size:4em;">[Learning Discovery: Playing with Python](https://github.com/karquiambao/Playing-With-Python)</span>
 
 **Tools & Technology Used:** Python, Numpy, Pandas, MatPlotlib, Seaborn
