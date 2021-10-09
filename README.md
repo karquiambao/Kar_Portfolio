@@ -1,9 +1,9 @@
 
-## <span style="font-family:Papyrus;">[Learning Discovery: Playing with Python](https://github.com/karquiambao/Playing-With-Python)</span>
+### <span style="font-family:Papyrus;">[Learning Discovery: Playing with Python](https://github.com/karquiambao/Playing-With-Python)</span>
 
 **Tools & Technology Used:** Python, Numpy, Pandas, MatPlotlib, Seaborn
 
-## [Project: Restaurant Investment](#) 
+### [Project: Restaurant Investment](#) 
 
 **Description:** 
 Insights from restaurants in Mexico for investors 
@@ -18,16 +18,16 @@ Insights from restaurants in Mexico for investors
 <br>
 [![](https://github.com/karquiambao/Kar_Portfolio/blob/main/images/portfolio-project1.png?raw=true)](#)
 
-## <span style="font-family:Papyrus;">[Project: Business Analysis For a Fintech Company (Methodology)](#)
+### <span style="font-family:Papyrus;">[Project: Business Analysis For a Fintech Company (Methodology)](#)
 **Description:** Capstone Project from data analytics bootcamp
 <br>
 **Tools & Technology Used:** Google Data Studio, BigQuery SQL
-## <span style="font-family:Papyrus;">[Project: CO2 Emissions in Singapore (Methodology)](#)
+### <span style="font-family:Papyrus;">[Project: CO2 Emissions in Singapore (Methodology)](#)
 **Description:** Sprint project from data analytics bootcamp
 <br>
 **Tools & Technology Used:** PowerBI, Google Data Studio, BigQuery SQL
 <br>
-## <span style="font-family:Papyrus;">[Project: Learnings from Covid19 in Florida (Methodology)](#)
+### <span style="font-family:Papyrus;">[Project: Learnings from Covid19 in Florida (Methodology)](#)
 **Description:** Sprint project form data analytics bootcamp
 <br>
 **Tools & Technology Used:** PowerBI, Google Data Studio
