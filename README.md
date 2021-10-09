@@ -1,6 +1,6 @@
 # Kar's Portfolio
 
-# [Project 1: Restaurant Investment using GDS and BigQuery](https://github.com/karquiambao/Restaurant-Investment)
+## [Project 1: Restaurant Investment using GDS and BigQuery](https://github.com/karquiambao/Restaurant-Investment)
 
 **Description:** 
 <br>
