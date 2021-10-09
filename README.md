@@ -1,9 +1,12 @@
-#
+# 
+## <span style="font-family:Papyrus; font-size:4em;">[Learning Discovery: Playing with Python](https://github.com/karquiambao/Playing-With-Python)</span>
 
-## [Project 1: Restaurant Investment](#)
+**Tools & Technology Used:** Python, Numpy, Pandas, MatPlotlib, Seaborn
+
+## [Project: Restaurant Investment](#) 
 
 **Description:** 
-Restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences. 
+Insights from restaurants in Mexico for investors 
 <br>
 **Github Repository:** 
 [https://github.com/karquiambao/Restaurant-Investment](https://github.com/karquiambao/Restaurant-Investment)
@@ -15,6 +18,12 @@ Restaurant ratings in Mexico by real consumers from 2012, including additional i
 <br>
 [![](https://github.com/karquiambao/Kar_Portfolio/blob/main/images/portfolio-project1.png?raw=true)](#)
 
-## [Project 2: Playing with Python](https://github.com/karquiambao/Playing-With-Python)
-
-**Tools & Technology Used:** Python, Numpy, Pandas, MatPlotlib, Seaborn
+## [Project: Business Analysis For a Fintech Company (Methodology)](#)
+**Description:** Capstone Project from data analytics bootcamp
+**Tools & Technology Used:** Google Data Studio, BigQuery SQL
+## [Project: CO2 Emissions in Singapore (Methodology)](#)
+**Description:** Sprint project from data analytics bootcamp
+**Tools & Technology Used:** PowerBI, Google Data Studio, BigQuery SQL
+## [Project: Learnings from Covid19 in Florida (Methodology)](#)
+**Description:** Sprint project form data analytics bootcamp
+**Tools & Technology Used:** PowerBI, Google Data Studio
