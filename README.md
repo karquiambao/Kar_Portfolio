@@ -20,10 +20,14 @@ Insights from restaurants in Mexico for investors
 
 ## [Project: Business Analysis For a Fintech Company (Methodology)](#)
 **Description:** Capstone Project from data analytics bootcamp
+<br>
 **Tools & Technology Used:** Google Data Studio, BigQuery SQL
 ## [Project: CO2 Emissions in Singapore (Methodology)](#)
 **Description:** Sprint project from data analytics bootcamp
+<br>
 **Tools & Technology Used:** PowerBI, Google Data Studio, BigQuery SQL
+<br>
 ## [Project: Learnings from Covid19 in Florida (Methodology)](#)
 **Description:** Sprint project form data analytics bootcamp
+<br>
 **Tools & Technology Used:** PowerBI, Google Data Studio
