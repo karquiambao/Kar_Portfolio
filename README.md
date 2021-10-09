@@ -1,4 +1,4 @@
-# Kar's Portfolio
+#
 
 ## [Project 1: Restaurant Investment](#)
 
