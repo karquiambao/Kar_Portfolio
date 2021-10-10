@@ -3,7 +3,7 @@
 **Description:** Capstone Project from data analytics bootcamp
 <br>
 **Tools & Technology Used:** PowerBI, Google Data Studio, BigQuery SQL <br>
-**Methodology:** *To be uploaded* <br>
+**Methodology:** *To be uploaded* <br> <br>
 **Capstone Project:** Business Analysis For a Fintech Company <br>
 **Sprint Project:** CO2 Emissions <br>
 **Sprint Project:** Learnings from Covid19 <br>
