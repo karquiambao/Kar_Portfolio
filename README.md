@@ -9,8 +9,12 @@
 # [Learning Discovery: Playing with Python](#) <br>
 **Dataset Source:** Kaggle <br>
 **Tools & Technology Used:** Anaconda, Jupyter, Python, Numpy, Pandas, MatPlotlib, Seaborn <br> <br>
-Because learning is a lifetime process, I started studying python by following tutorials from Kaggle, MLCourseAI, and HackerRank.
-<br>Do you know any interesting dataset or theme you would like to get some insights? Let me know! :)
+***Small progress is still progress!***<br> 
+Because learning is a lifelong process, <br>
+I started studying python by following tutorials from Kaggle, MLCourseAI, and HackerRank.<br>
+It was amazing to see how fast it is to create histograms in python with just a few lines! It's a fun challenge! 
+<br>Do you know any interesting dataset or theme you would like to get some insights? 
+<br>Let me know! :)
 <br>
 # [Project: Restaurant Investment](#) <br>
 **Description:** Personal Project - Insights from restaurants in Mexico for investors <br>
