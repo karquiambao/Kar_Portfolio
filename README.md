@@ -13,7 +13,8 @@
 ***Small progress is still progress!***<br> 
 Because learning is a lifelong process, <br>
 I started studying python by following tutorials from Kaggle, MLCourseAI, and HackerRank.<br>
-It was amazing to see how fast it is to create histograms in python with just a few lines! It's a fun challenge! 
+It was amazing to see how fast it is to create histograms in python with just a few lines!<br>
+It's a fun challenge! 
 <br>Do you know any interesting dataset or theme you would like to get some insights? 
 <br>Let me know! :)
 <br>
