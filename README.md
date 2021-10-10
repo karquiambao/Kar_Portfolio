@@ -6,6 +6,7 @@
 **Capstone Project:** Business Analysis For a Fintech Company <br>
 **Sprint Project:** CO2 Emissions <br>
 **Sprint Project:** Learnings from Covid19 <br>
+---
 # [Learning Discovery: Playing with Python](#) <br>
 **Dataset Source:** Kaggle <br>
 **Tools & Technology Used:** Anaconda, Jupyter, Python, Numpy, Pandas, MatPlotlib, Seaborn <br> <br>
@@ -16,6 +17,7 @@ It was amazing to see how fast it is to create histograms in python with just a 
 <br>Do you know any interesting dataset or theme you would like to get some insights? 
 <br>Let me know! :)
 <br>
+---
 # [Project: Restaurant Investment](#) <br>
 **Description:** Personal Project - Insights from restaurants in Mexico for investors <br>
 **Dataset Source:** [https://www.mavenanalytics.io/data-playground](https://www.mavenanalytics.io/data-playground/?target=_blank) <br>
