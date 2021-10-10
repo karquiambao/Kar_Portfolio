@@ -2,7 +2,7 @@
 # [Project: Data Analytics Bootcamp](#) <br>
 **Description:** Capstone Project from data analytics bootcamp
 <br>
-**Tools & Technology Used:** PowerBI, Google Data Studio <br>
+**Tools & Technology Used:** PowerBI, Google Data Studio, BigQuery SQL <br>
 **Methodology:** *To be uploaded* <br>
 **Capstone Project:** Business Analysis For a Fintech Company <br>
 **Sprint Project:** CO2 Emissions <br>
