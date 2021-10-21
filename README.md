@@ -27,6 +27,6 @@ I'm still learning, but it's a fun challenge!
 <br>
 **Status:**
 *Work in progress* <br> <br>
-[![](https://github.com/karquiambao/Kar_Portfolio/blob/main/images/portfolio-project1.png?raw=true)](#)
+[![](https://github.com/karquiambao/Kar_Portfolio/blob/main/images/maven.png?raw=true)](#)
 
 
